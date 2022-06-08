@@ -31,7 +31,7 @@ export default function Home() {
       </Head>
 
       <main className={"App"}>
-        {number && <iframe src='http://jagan.pro' alt="https://jagan.pro" />}
+        {number && <iframe src='https://jagan.pro' alt="https://jagan.pro" />}
       </main>
     </div>
   )
